@@ -1,2 +1,2 @@
-# LX_PythonBasics
+# LXOnboarding
 Microsoft Launch X - Python basic programming
